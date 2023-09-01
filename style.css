@@ -1,0 +1,45 @@
+.head{
+    background-color: #01370C;
+    justify-content: center;
+    text-align:en;
+}
+.head li{
+    margin-bottom: -8px;
+}
+.nav-link{
+    font-weight: bold;
+}
+.img img{
+    flex-wrap: wrap;
+}
+.search{
+    margin-top: 11px;`
+}
+.card{
+    padding: 20px;
+    border: none;
+    box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.486);
+}
+.heading{
+    font-family: Bold;
+    font-weight: bolder;
+}
+.para{
+    padding: 15px;
+}
+.socialmedia1{
+    background: #01370C;
+    padding: 19px;
+    border-radius: 38%;
+}
+.socialmedia2{
+    background: #01370C;
+    padding: 16px;
+    border-radius: 32%;
+}
+.last{
+    background: #436E35;
+}
+.end{
+    background: #01370C; 
+}
